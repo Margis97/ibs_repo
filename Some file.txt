@@ -1,4 +1,5 @@
 Some file
 !!!
 Change some file
-Feature hello
+Feature: Hello
+После набега заказчика продолжаем работу над фичей Hello
