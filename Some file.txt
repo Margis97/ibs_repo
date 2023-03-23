@@ -1,5 +1,6 @@
-Some file
-!!!
-Change some file
+Some file;
+!!!;
+Change some file;
 Feature: Hello
+Срочное задание от заказчика в main проставить точки с запятой
 После набега заказчика продолжаем работу над фичей Hello
