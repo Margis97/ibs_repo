@@ -1,3 +1,4 @@
-Some file
-!!!
-Change some file
+Some file;
+!!!;
+Change some file;
+Срочное задание от заказчика в main проставить точки с запятой
